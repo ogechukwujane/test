@@ -1,0 +1,51 @@
+* {	
+	background-color: #f0f0f0;
+	padding: 0;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	border: 5px solid #e7e7e7;
+	background-color: #f0f0f0;
+	width: 100%;
+}
+li{
+	float: left;
+	background-color: #fff;
+	margin-left: 120px;
+}
+li a{
+	display:block;
+	color:#666;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+
+}
+li a:hover {
+	background-color: c
+	color: white;
+}
+.jane h1{
+	background-image: url(../images/p2.jpg);
+	width: 100%;
+	height: 270px;
+	background-size: cover;
+	display: block;
+	
+
+}
+.peacio{
+	padding:0;
+	float:left;
+	width:50%;
+	display: block;
+}
+.onelove{
+	text-align: center;
+	font-size:18px;
+	float: right;
+	width:50%;
+}
